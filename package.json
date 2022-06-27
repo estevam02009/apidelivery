@@ -1,0 +1,14 @@
+{
+  "name": "apidelivery",
+  "version": "1.0.0",
+  "description": "API NodeJS para aplicativos de delivery",
+  "main": "index.js",
+  "repository": "https://github.com/estevam02009/apidelivery.git",
+  "author": "estevamnet <manoel.neto53861@alunos.ufersa.edu.br>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.21.1"
+  }
+}
